@@ -1,0 +1,9 @@
+export const ACTIONS = {
+  THEME: "THEME",
+  DISPLAY: "DISPLAY",
+  HISTORY: "HISTORY",
+  CALC: "=",
+  CLEAR: "C",
+  CLEAR_WITH_HISTORY: "CE",
+  UNDO: "UNDO",
+};
